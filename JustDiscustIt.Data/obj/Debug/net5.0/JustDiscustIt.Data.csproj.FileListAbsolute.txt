@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\bin\Debug\net5.0\JustDiscustIt.Data.deps.json
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\bin\Debug\net5.0\JustDiscustIt.Data.dll
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\bin\Debug\net5.0\ref\JustDiscustIt.Data.dll
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\bin\Debug\net5.0\JustDiscustIt.Data.pdb
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\obj\Debug\net5.0\JustDiscustIt.Data.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\obj\Debug\net5.0\JustDiscustIt.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\obj\Debug\net5.0\JustDiscustIt.Data.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\obj\Debug\net5.0\JustDiscustIt.Data.AssemblyInfo.cs
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\obj\Debug\net5.0\JustDiscustIt.Data.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\obj\Debug\net5.0\JustDiscustIt.Data.dll
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\obj\Debug\net5.0\ref\JustDiscustIt.Data.dll
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\obj\Debug\net5.0\JustDiscustIt.Data.pdb
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\bin\Debug\net5.0\JustDiscustIt.Data.runtimeconfig.json
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\bin\Debug\net5.0\JustDiscustIt.Data.runtimeconfig.dev.json
+C:\Users\HP\source\repos\WebApplication2\JustDiscustIt.Data\obj\Debug\net5.0\JustDiscustIt.Data.genruntimeconfig.cache
